@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">지식공유에 적극적인 개발자, 송명석입니다.😄</div>  
+### <div>지식공유에 적극적인 개발자, 송명석입니다.😄</div>  
   
 
 - 체계적이고, 효율적으로 일하는것을 좋아합니다!  
