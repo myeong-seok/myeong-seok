@@ -1,6 +1,6 @@
 
-### <div>지식공유에 적극적인 개발자, 송명석입니다.😄</div>  
-  
+### <div>Front-end Developer, 송명석입니다.😄</div>  
+  <br/>
 
 - 체계적이고, 효율적으로 일하는것을 좋아합니다!  
   
@@ -55,18 +55,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/myeong-seok" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
 
 
 ## Github Stats  
